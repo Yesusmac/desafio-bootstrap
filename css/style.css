@@ -1,4 +1,49 @@
-.img-logo{
-    max-width: 100px;
-    max-height: 50px;
+/* main produtos */
+.bcn-main{
+    background-color: rgb(200, 242, 242);
+}
+
+.Tit-prod {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    background-color: rgb(221, 234, 245);
+    }
+/* cards producctos */
+.row {
+    justify-content: space-between;
+    padding: 2rem;
+}
+.btn-card{
+    background-color: #5d6271;
+    color: #fff;
+}
+
+.card-body {
+    background-color: #dadada;
+}
+
+.card{
+    width: 18rem;
+}
+
+.grid-bootstrap{
+    background-color: bisque;
+}
+.grid-bootstrap div{
+    border: 1px solid black;
+}
+
+
+/* footer */
+
+footer{
+    background-color: #39a1eb;
+}
+.img-log-footer {
+    max-width: 180px;
+}
+
+.tit-footer {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 125pxpx;
 }
